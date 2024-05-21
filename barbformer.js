@@ -50,7 +50,7 @@ var scriptConfig = {
             'Max lvl reduction per command': 'Level kattern/Befehl',
             'Spy Count': 'Spy Anzahl',
         },
-		nl_NL: {
+	nl_NL: {
             'Barbarian Village Former': 'Barbarendorp formen',
             Help: 'Help',
             'Redirecting...': 'Omleiden...',
